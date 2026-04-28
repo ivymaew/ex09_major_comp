@@ -16,7 +16,16 @@ First, we looked at the distribution of majors accross the class, and found that
 The graph below shows the distribution of majors accross COMP 110. 
 
 ## Distribution of Majors
-<img src="<ex09_major_comp>/static/imgs/graph1.png" alt="Dist of Majors. "  width="500"/>
+<img src="<ex09_major_comp>/static/imgs/graph1.png" alt="Dist of Majors. "  width="350"/>
+
+## Scores by Major
+We then examined the scores for both values, with color coding showing the major of each respondant. This helped us to visualize the differences between majors, but didn't provide too muhc additional information to support our conclusion. 
+<img src="<ex09_major_comp>/static/imgs/scatterplot.png" alt="Majors Scatterplot. "  width="350"/>
+
+## CS Major vs Other Majors
+Finally, we looked at CS majors (and minors) feelings on how valuable the course is compared to non CS students. As you can see below, all CS majors seem to find COMP 110 valuable, with fewer outliers. In comparison, non CS majors have a greater distribution in data, with some seeing it as a 7 (very valuable) and others a 1. This shows the variety among non CS majors.
+
+<img src="<ex09_major_comp>/static/imgs/graph1.png" alt="CS majors vs All majors. "  width="350"/>
 
 ## Conclusion
 
