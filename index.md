@@ -3,10 +3,20 @@
 layout: default
 ---
 
-# This is a big header
+# Major Specific Sections of COMP 110
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+For our project, we decided to examine the major's of COMP 110 students, and see if that had an affect on their interest in the material or the perceived value of taking the course. We hypothesized that CS majors would obviously have the highest numbers, but we expected STEM students to also feel like the class is more interestin that humanities students. 
+
+We think that examining this question and conducting analysis on it can improve future sections of COMP 110 by providing more engaging material that students are interested in and feel is valuable to their future and their careers.
+
+## Pre-Analysis
+
+First, we looked at the distribution of majors accross the class, and found that the majority of students were either a type of science (like Biology or Neurosceince) or economics/statistics/business. We only has 8 computer science majors in the data we examined, which was interesting. We also found that the average score for interest was **4.94**, and the average score for perceived value was **5.33**, both higher than we were expecting on a 7 point scale. 
+
+The graph below shows the distribution of majors accross COMP 110. 
+
+## Distribution of Majors
+<img src="<ex09_major_comp>/static/imgs/graph1.png" alt="Dist of Majors. "  width="500"/>
 
 ## Conclusion
 
